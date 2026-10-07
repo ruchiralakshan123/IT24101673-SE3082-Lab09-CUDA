@@ -1,6 +1,7 @@
 # SE3082 Lab 09 - Introduction to CUDA
 
 **Student name:** Senarath D.M.G.R.L
+
 **Student ID:** IT24101673
 
 This repository contains the CUDA practical exercises completed for **SE3082 -
